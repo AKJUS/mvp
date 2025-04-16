@@ -20,7 +20,7 @@ tqdm==4.65.0
 transformers==4.31.0
 
 # App dependencies
-dash==2.10.2
+dash==2.15.0
 dash-bootstrap-components==1.4.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
